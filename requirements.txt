@@ -66,7 +66,7 @@ notebook==5.6.0
 numpy==1.14.5
 oauth2client==4.1.2
 olefile==0.45.1
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 padatious==0.3.7
 pandas==0.22.0
 pandocfilters==1.4.2
